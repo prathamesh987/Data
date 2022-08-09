@@ -1,2 +1,2 @@
-# Data
+# Logistic regression 
 Data analytics projects
